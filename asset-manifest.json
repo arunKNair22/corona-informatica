@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/corona-informatica/static/css/main.ff3960f8.chunk.css",
+    "main.js": "/corona-informatica/static/js/main.3ecb41be.chunk.js",
+    "main.js.map": "/corona-informatica/static/js/main.3ecb41be.chunk.js.map",
+    "runtime-main.js": "/corona-informatica/static/js/runtime-main.ec802709.js",
+    "runtime-main.js.map": "/corona-informatica/static/js/runtime-main.ec802709.js.map",
+    "static/js/2.3b38eefb.chunk.js": "/corona-informatica/static/js/2.3b38eefb.chunk.js",
+    "static/js/2.3b38eefb.chunk.js.map": "/corona-informatica/static/js/2.3b38eefb.chunk.js.map",
+    "index.html": "/corona-informatica/index.html",
+    "precache-manifest.b05f913939fb4aca9cbdad456e4322b3.js": "/corona-informatica/precache-manifest.b05f913939fb4aca9cbdad456e4322b3.js",
+    "service-worker.js": "/corona-informatica/service-worker.js",
+    "static/css/main.ff3960f8.chunk.css.map": "/corona-informatica/static/css/main.ff3960f8.chunk.css.map",
+    "static/js/2.3b38eefb.chunk.js.LICENSE.txt": "/corona-informatica/static/js/2.3b38eefb.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/corona-informatica/static/media/1.18a547a6.jpg",
+    "static/media/1.png": "/corona-informatica/static/media/1.c2a48804.png",
+    "static/media/10.png": "/corona-informatica/static/media/10.c860bbf5.png",
+    "static/media/11.png": "/corona-informatica/static/media/11.c20b91b2.png",
+    "static/media/12.png": "/corona-informatica/static/media/12.e30dfa7f.png",
+    "static/media/13.png": "/corona-informatica/static/media/13.90e9db9f.png",
+    "static/media/2.jpg": "/corona-informatica/static/media/2.47a59d0b.jpg",
+    "static/media/2.png": "/corona-informatica/static/media/2.b5cd1c65.png",
+    "static/media/3.png": "/corona-informatica/static/media/3.b26a7509.png",
+    "static/media/4.png": "/corona-informatica/static/media/4.a333b1ef.png",
+    "static/media/5.png": "/corona-informatica/static/media/5.42d5ca36.png",
+    "static/media/6.png": "/corona-informatica/static/media/6.b988c7fa.png",
+    "static/media/7.png": "/corona-informatica/static/media/7.1320c3ab.png",
+    "static/media/8.png": "/corona-informatica/static/media/8.25fffabc.png",
+    "static/media/9.png": "/corona-informatica/static/media/9.7a55c8b4.png",
+    "static/media/corona-image.png": "/corona-informatica/static/media/corona-image.d72e7e8e.png",
+    "static/media/corona-spread.jpg": "/corona-informatica/static/media/corona-spread.1090bee7.jpg",
+    "static/media/Home.css": "/corona-informatica/static/media/covid-19-banner.f384e235.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec802709.js",
+    "static/js/2.3b38eefb.chunk.js",
+    "static/css/main.ff3960f8.chunk.css",
+    "static/js/main.3ecb41be.chunk.js"
+  ]
+}
