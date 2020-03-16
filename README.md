@@ -1,0 +1,2 @@
+# corona-informatica
+COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019. Most estimates of the incubation period (the time between catching the virus and beginning to have symptoms of the disease) for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available.
