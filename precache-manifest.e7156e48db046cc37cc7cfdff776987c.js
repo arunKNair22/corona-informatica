@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cbdb8bc4c48d672a300ec7c328316ef",
+    "revision": "80cc0a072c462da3343a44541c8f1757",
     "url": "/corona-informatica/index.html"
   },
   {
-    "revision": "2e3d74cb0cce870abb8f",
+    "revision": "964995f910bafb5d76a3",
     "url": "/corona-informatica/static/css/main.77b0d7fe.chunk.css"
   },
   {
-    "revision": "187f5aebc05514acad6b",
-    "url": "/corona-informatica/static/js/2.3b38eefb.chunk.js"
+    "revision": "d87d0b8374eab7f50d4c",
+    "url": "/corona-informatica/static/js/2.fad9593e.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/corona-informatica/static/js/2.3b38eefb.chunk.js.LICENSE.txt"
+    "url": "/corona-informatica/static/js/2.fad9593e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e3d74cb0cce870abb8f",
-    "url": "/corona-informatica/static/js/main.68587a05.chunk.js"
+    "revision": "964995f910bafb5d76a3",
+    "url": "/corona-informatica/static/js/main.1b15145c.chunk.js"
   },
   {
     "revision": "b13a58ea933dc9b52b3a",
