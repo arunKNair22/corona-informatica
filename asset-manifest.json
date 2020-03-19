@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/corona-informatica/static/css/main.fa593bf7.chunk.css",
-    "main.js": "/corona-informatica/static/js/main.4a54272e.chunk.js",
-    "main.js.map": "/corona-informatica/static/js/main.4a54272e.chunk.js.map",
+    "main.css": "/corona-informatica/static/css/main.59b9374e.chunk.css",
+    "main.js": "/corona-informatica/static/js/main.e104a994.chunk.js",
+    "main.js.map": "/corona-informatica/static/js/main.e104a994.chunk.js.map",
     "runtime-main.js": "/corona-informatica/static/js/runtime-main.ec802709.js",
     "runtime-main.js.map": "/corona-informatica/static/js/runtime-main.ec802709.js.map",
-    "static/js/2.fad9593e.chunk.js": "/corona-informatica/static/js/2.fad9593e.chunk.js",
-    "static/js/2.fad9593e.chunk.js.map": "/corona-informatica/static/js/2.fad9593e.chunk.js.map",
+    "static/js/2.9d9a73f7.chunk.js": "/corona-informatica/static/js/2.9d9a73f7.chunk.js",
+    "static/js/2.9d9a73f7.chunk.js.map": "/corona-informatica/static/js/2.9d9a73f7.chunk.js.map",
     "index.html": "/corona-informatica/index.html",
-    "precache-manifest.f8d9dbb1139d878e1e5f75bc319229e0.js": "/corona-informatica/precache-manifest.f8d9dbb1139d878e1e5f75bc319229e0.js",
+    "precache-manifest.7f0570349ec34c89619f0965ad8718c5.js": "/corona-informatica/precache-manifest.7f0570349ec34c89619f0965ad8718c5.js",
     "service-worker.js": "/corona-informatica/service-worker.js",
-    "static/css/main.fa593bf7.chunk.css.map": "/corona-informatica/static/css/main.fa593bf7.chunk.css.map",
-    "static/js/2.fad9593e.chunk.js.LICENSE.txt": "/corona-informatica/static/js/2.fad9593e.chunk.js.LICENSE.txt",
+    "static/css/main.59b9374e.chunk.css.map": "/corona-informatica/static/css/main.59b9374e.chunk.css.map",
+    "static/js/2.9d9a73f7.chunk.js.LICENSE.txt": "/corona-informatica/static/js/2.9d9a73f7.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/corona-informatica/static/media/1.18a547a6.jpg",
     "static/media/1.png": "/corona-informatica/static/media/1.c2a48804.png",
     "static/media/10.png": "/corona-informatica/static/media/10.c860bbf5.png",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec802709.js",
-    "static/js/2.fad9593e.chunk.js",
-    "static/css/main.fa593bf7.chunk.css",
-    "static/js/main.4a54272e.chunk.js"
+    "static/js/2.9d9a73f7.chunk.js",
+    "static/css/main.59b9374e.chunk.css",
+    "static/js/main.e104a994.chunk.js"
   ]
 }

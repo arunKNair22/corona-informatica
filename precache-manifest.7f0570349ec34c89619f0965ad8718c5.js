@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4398df454b39d8af68e7b5a33e0ad98",
+    "revision": "1fe0899c1a6ed3c44d54a882d3d340f0",
     "url": "/corona-informatica/index.html"
   },
   {
-    "revision": "49ff50e11b390c34a13f",
-    "url": "/corona-informatica/static/css/main.fa593bf7.chunk.css"
+    "revision": "e435f30162f19729aac2",
+    "url": "/corona-informatica/static/css/main.59b9374e.chunk.css"
   },
   {
-    "revision": "d87d0b8374eab7f50d4c",
-    "url": "/corona-informatica/static/js/2.fad9593e.chunk.js"
+    "revision": "9203ba9e9be10fbbc6c9",
+    "url": "/corona-informatica/static/js/2.9d9a73f7.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/corona-informatica/static/js/2.fad9593e.chunk.js.LICENSE.txt"
+    "url": "/corona-informatica/static/js/2.9d9a73f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "49ff50e11b390c34a13f",
-    "url": "/corona-informatica/static/js/main.4a54272e.chunk.js"
+    "revision": "e435f30162f19729aac2",
+    "url": "/corona-informatica/static/js/main.e104a994.chunk.js"
   },
   {
     "revision": "b13a58ea933dc9b52b3a",
